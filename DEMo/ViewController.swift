@@ -6,7 +6,7 @@
 //  Copyright © 2017 Kayoti. All rights reserved.
 //
 
-//This code imples my new feature
+
 import UIKit
 
 class ViewController: UIViewController {
